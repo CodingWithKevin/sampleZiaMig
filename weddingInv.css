@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    text-align: center;
+    background-color: #ebddd7;
+}
+
+video {
+    text-align: center;
+    max-width: 1500px;
+    min-width: 480px;
+    /*overflow: hidden;*/
+}
